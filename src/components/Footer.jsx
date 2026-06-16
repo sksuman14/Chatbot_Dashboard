@@ -50,7 +50,7 @@ function Footer() {
           <div className="footer-links-group">
             <h4>Contact</h4>
             <a href="https://wa.me/917087032853" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-            <a href="mailto:contact@vbplindia.com">Email</a>
+            <a href="mailto:awadhropar@gmail.com">Email</a>
           </div>
         </div>
         <div className="footer-bottom">
